@@ -16,48 +16,13 @@ I enjoy solving complex problems, uncovering patterns, and building data-driven 
 
 ---
 
-### 🔭 **What I Do**
-- Analyze & visualize data to drive informed decisions  
-- Build scalable & efficient ML models  
-- Transform business problems into analytical solutions  
-- Create dashboards & data workflows for automation  
+### 🌱 Currently Exploring
+I analyze data, build ML models, and create dashboards to turn insights into action. Currently deepening my skills in advanced analytics, model optimization, deployment, and data visualization to design scalable, impactful, data-driven solutions.
 
 ---
 
-### 🌱 **Currently Exploring**
-- Advanced Data Analytics & Feature Engineering  
-- Model Optimization & Deployment  
-- Business Intelligence Dashboards  
-- Statistical Thinking & Analytical Reasoning  
-
----
-
-### 🤝 **Let's Collaborate On**
-- Data & ML Research Projects  
-- Hackathons & Innovation Challenges  
-- End-to-end Machine Learning pipelines  
-- Dashboard & Workflow Automation Solutions  
-
----
-
-### 💬 **Tech Stack I Work With**
-| Programming | Data & BI Tools | ML / DS |
-|------------|-----------------|--------|
-| Python, C++ | Power BI, Excel, Tableau | Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
-| SQL, DSA   | MySQL, SQLite   | Model Evaluation, Visualization |
-
----
-
-### ✨ **What Excites Me**
-- Finding clarity in large datasets  
-- Visualizing data as a story  
-- Improving model performance  
-- Building interpretable & impactful solutions  
-
----
-
-### 📫 **Let's Connect**
-📧 Email: **naman22112003@gmail.com** 
+### 🤝 Let's Collaborate!
+ I enjoy uncovering patterns in large datasets, turning them into powerful visual stories, and improving model performance to build interpretable, impactful systems.
 
 ---
 
