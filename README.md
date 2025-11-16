@@ -44,7 +44,7 @@ I analyze data, build ML models, and create dashboards to turn insights into act
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naman22112003-sudo&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 📊 Namna's GitHub Activity
+### 📊 Naman's GitHub Activity
 
 [![Shubhm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naman22112003-sudo&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
